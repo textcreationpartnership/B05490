@@ -1,0 +1,300 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation anent beggers</title>
+            <author>Scotland. Sovereign (1689-1694 : William and Mary)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05490</idno>
+            <idno type="STC">Wing S1628</idno>
+            <idno type="STC">ESTC R183359</idno>
+            <idno type="EEBO-CITATION">52615077</idno>
+            <idno type="OCLC">ocm 52615077</idno>
+            <idno type="VID">176105</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05490)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176105)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2762:48)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation anent beggers</title>
+                  <author>Scotland. Sovereign (1689-1694 : William and Mary)</author>
+                  <author>William III, King of England, 1650-1702.</author>
+                  <author>Mary II, Queen of England, 1662-1694.</author>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>by the heir of Andrew Anderson,</publisher>
+                  <pubPlace>[Edinburgh, :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Beggars --  Legal status, laws, etc. --  Scotland --  Early works to 1800.</term>
+               <term>Public welfare --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:176105:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <head>PROCLAMATION<lb/>
+               <hi>Anent Beggers.</hi>
+            </head>
+            <opener>
+               <signed>
+                  <hi>WILLIAM</hi> and <hi>MARY</hi> by the Grace of GOD, King and Qu<gap reason="illegible: damage" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap> 
+                  <hi>Great-Britain, France</hi> and <hi>Ireland,</hi> Defender of the Faith,</signed>
+               <salute>To  <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> Macers of Our Privy Council, Meſſengers at Arms, Our Sheriffs i<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> part, conjunctly and ſeverally, ſpecially conſtitute, greeting,</salute>
+            </opener>
+            <p>Foraſmuch as the inte<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deſign of Our Proclamation, of the date the eleventh day of <hi>Auguſt,</hi> One thouſand ſi<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>dred and ninety two years, requiring all Beggers within this Kingdom, forthwith to <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to their ſeveral Paroches with all diligence, hath been much diſappointed and fruſtr<gap reason="illegible: in gutter" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap> the uncertainty of the Paroches where the ſaids reſpective Beggers have been born, a<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> want of ſuitable Proviſion made by the Heretors and Magiſtrats of the reſpective Par<gap reason="illegible: in gutter" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> where the ſaids Beggers have been born, or had their laſt ſeven years reſidence: For re<gap reason="illegible: in gutter" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap> whereof, We with Advice of the Lords of Our Privy Council, ſtrictly Require and <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>mand all the Beggers within this Kingdom, immediately to repair to the ſeveral Par<gap reason="illegible: in gutter" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> where they were Born; and where the Paroch or place of their Birth is not certain, <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſtinctly known, that they repair to the Paroches where they laſt Reſided for the ſpace <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ven years together, and to keep the ordinary High ways to the ſeveral Paroches of their <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or laſt ſeven years Reſidence; and ſo ſoon as they come to the ſaid reſpective Paroch<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> preſent themſelves to the Heretors and Elders; and where Paroches are Vacant, and no Elders, to the Heretors alone; whom we, with Advice foreſaid, Require and Comm<gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> to make the proviſions neceſſary for the ſaids Beggers, and to Liſt their Names amon<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> poor of the Paroch, that they may be Lodged and intertained accordingly; with Cer<gap reason="illegible: in gutter" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tion to all who ſhall be found Begging after the ſecond <hi>Tueſday</hi> of <hi>September</hi> next, the<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be ſeized as Vagabonds, Impriſoned, and fed on Bread and Water for a Month, or ti<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be ſent home to the reſpective Paroches of their Birth, or laſt ſeven years Reſidence, in <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ner mentioned in Our ſaid former Pro<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>amation. And We with Advice foreſaid, R<gap reason="illegible: in gutter" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap> and Command the Magiſtrats of Our Burghs Royal, to Meet and Stent themſelves, con<gap reason="illegible: in gutter" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> to ſuch order and cuſtom uſed and wont in laying on Stents, Annuities, or other Pu<gap reason="illegible: in gutter" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap> Burdens in the reſpective Burghs, as may be moſt effectual to reach all the Inhabitants: <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Heretors of the ſeveral Vacant Paroches likewiſe to meet, and Stent themſelves, fo<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> maintainance of their ſaid reſpective Poor, and to appoint the In-gathering, Uplifting <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> applying of the ſame for the uſes foreſaids. Sicklike, and in the ſame manner, as th<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>retors and Elders are appointed by Our ſaid former Proclamation, and all the Miniſter<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Heretors are hereby required to give timeous intimation to the Sheriff of the Shire, if an<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>roch, or Perſon, ſhall fail in performance of this Chriſtian duty, in haill, or in part; And <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Sheriff, or Sheriff-depute, are hereby required to call the Delinquents before them, wit<gap reason="illegible: in gutter" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> any delay; and if guilty, to Fine them in double of the <hi>quota</hi> which the Miniſter or <gap reason="illegible: in gutter" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tors ſhall atteſt to be wanting, and to cauſe Poynd for the ſame immediatly. And fu<gap reason="illegible: in gutter" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> for preventing of any Queſtion may ariſe betwixt the Heretors and Kirk-Seſſion in the <gap reason="illegible: in gutter" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ral Paroches of this Kingdom about the <hi>quota</hi> of the Collections at the Church Doors, otherways to be made by the ſaid Seſſion, to be payed in to the Heretors, for the end <gap reason="illegible: in gutter" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſaid: We do hereby with Advice foreſaid, determine the ſame to be the half of the <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Collections, and ordains the ſaid Kirk Seſſion to pay in the ſame from time to time to the Heretors, or any to be by them appointed accordingly. And We with Advice fore<gap reason="illegible: in gutter" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> declare and ordain Our ſaid former Proclamation to ſtand in full force and vigour, in <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> haill Heads, Points, and Articles thereof, and ordains the ſamine to be put to execution w<gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> all diligence, in ſo far as the ſame is not hereby altered or innovat. And to the effect <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Will and Pleaſure in the Premiſſes may be known, OUR WILL IS HEREFORE, and <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Charge you ſtrictly, and Command, that incontinent, theſe Our Letters ſeen, ye paſs to <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Mercat-Croſs of <hi>Edinburgh,</hi> and to the Mercat-Croſſes of the whole remanent Head Burgh<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the ſeveral Shires and Stewartries within this Kingdom, and there in Our Name and Aut<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rity make open Proclamation of the Premiſſes, that none may pretend ignorance, and <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>dains theſe preſents to be Printed.</p>
+            <closer>
+               <dateline>Given under Our Signet at <hi>Edinburgh,</hi> 
+                  <date>the twenty ni<gap reason="illegible: in gutter" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> day of <hi>Auguſt,</hi> and of Our Reign the Fifth Year, 1693</date>
+               </dateline>
+               <signed>Per Actum Dominorum Secreti Concilii. <hi>GILB<g ref="char:punc">▪</g> ELIOT</hi> Cls. Sti. C<gap reason="illegible: page cropped" extent="8 letters">
+                     <desc>〈8 letters〉</desc>
+                  </gap>.</signed>
+               <lb/>
+GOD Save the KING and QUE<gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
